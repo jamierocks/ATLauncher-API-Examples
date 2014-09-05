@@ -6,7 +6,9 @@ A set of examples that you can use with an implementation of the ATLauncher API,
 
 ### Links
 [ATLauncher Website](http://www.atlauncher.com)
+
 [ATLauncher Github](https://github.com/ATLauncher/ATLauncher)
+
 [ATLauncher-API-Examples](https://github.com/lexware/ATLauncher-API-Examples)
 
 ### Collaborators
