@@ -9,7 +9,7 @@ A set of examples that you can use with an implementation of the ATLauncher API,
 
 [ATLauncher Github](https://github.com/ATLauncher/ATLauncher)
 
-[ATLauncher-API-Examples](https://github.com/lexware/ATLauncher-API-Examples)
+[ATLauncher-API-Implementation](https://github.com/lexware/ATLauncher-API-Implementation)
 
 ### Collaborators
 The only person but myself who has access to modify this project without having to make pull requests, is RyanTheAlmighty, I have given him collaborator permission if in the unlikely case he wishes to fix or amend something in the code.
